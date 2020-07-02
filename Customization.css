@@ -1,2 +1,8 @@
 /* .content-3at_AU .name-3_Dsmg, .icon-1_QxNX {color: var(--channel-color) } */
 .content-3at_AU .name-3_Dsmg {color:var(--channel-color);}
+
+/*testing shit*/
+.contents-2mQqc9 > img[src*="126652966265421824"] ~ .header-23xsNx > span.username-1A8OIy:after
+{
+    content: ' v6 Import Fix Dev ';
+}
