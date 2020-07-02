@@ -1,1 +1,2 @@
-.content-3at_AU .name-3_Dsmg, .icon-1_QxNX {color: var(--channel-color) }
+/* .content-3at_AU .name-3_Dsmg, .icon-1_QxNX {color: var(--channel-color) } */
+.content-3at_AU .name-3_Dsmg {color:var(--channel-color);}
