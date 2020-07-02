@@ -3,6 +3,6 @@
 /*Channel icon*/
 .content-3at_AU .icon-1_QxNX {color: var(--channel-color);}
 /*Channel icon focused*/
-.containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX:selected, {color: var(--channel-color);}
+.containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg {color: var(--channel-color);}
 /*channel text selected*/
 .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg, icon-1_QxNX {color: var(--channel-color);}
