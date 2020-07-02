@@ -11,6 +11,6 @@
 .wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .name-3_Dsmg {color:var(--channel-color); opacity:0.4;}
 .wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .icon-1_QxNX {color:var(--channel-color); opacity:0.4;}
 /*unread channel text*/
-.theme-dark .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG, .header-1TKi98, .footer-1eyGBa {color: var(--channel-color);}
+.theme-dark .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG, .header-1TKi98, .footer-1eyGBa {color: var(--channel-unread);}
 /*unread channel icon*/
-.wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX {color: var(--channel-color);}
+.wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX {color: var(--channel-unread);}
