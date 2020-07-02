@@ -6,3 +6,7 @@
 .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg {color: var(--channel-color);}
 /*channel text selected*/
 .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg, icon-1_QxNX {color: var(--channel-color);}
+
+.containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg {color:var(--channel-color)!important;}
+.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .name-3_Dsmg {color:var(--channel-color); opacity:0.4;}
+.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .icon-1_QxNX {color:var(--channel-color); opacity:0.4;}
