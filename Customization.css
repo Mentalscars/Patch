@@ -15,3 +15,5 @@
 .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .name-3_Dsmg {color: var(--channel-unread)!important;}
 /*unread channel icon*/
 .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX {color: var(--channel-unread)!important;}
+/*url color*/
+.fakeLink-26oLcc, .embed-IeVjo6 .embedTitleLink-1Zla9e, .markup-2BOw-j a {color:var(--url-color) !important;} 
