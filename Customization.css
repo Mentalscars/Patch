@@ -8,9 +8,9 @@
 .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg, icon-1_QxNX {color: var(--channel-color);}
 .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, .containerDefault-1ZnADq .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg {color:var(--channel-color)!important;}
 /*Muted channel text*/
-.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .name-3_Dsmg {color:var(--channel-color); opacity:0.4;}
+.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .name-3_Dsmg {color:var(--channel-color); opacity:0.1;}
 /*muted channel icon*/
-.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .icon-1_QxNX {color:var(--channel-color); opacity:0.4;}
+.wrapper-1ucjTd.modeMuted-3osy7j .content-3at_AU .icon-1_QxNX {color:var(--channel-color); opacity:0.1;}
 /*unread channel text*/
 .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .name-3_Dsmg {color: var(--channel-unread)!important;}
 /*unread channel icon*/
