@@ -3,3 +3,5 @@
 
 .appMount-3lHmkl, body, .bg-h5JY_x {background: transparent;}
 .image-1GzsFd, .text-GwUZgS, .emptyWumpus-12J3jI, .emptyStateDescription-2IePen, .headerImage-3X1tyY {display:none;}
+/* Hides background when uploading an image */
+.backdrop-1wrmKB {opacity: 0 !important;}
