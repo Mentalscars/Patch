@@ -1,7 +1,6 @@
 /* To use this import paste the following at the top of your custom css or in your theme file
 @import url(https://mentalscars.github.io/Patch/transparency.css); */
 
-.appMount-3lHmkl, body, .bg-h5JY_x {background: transparent;}
-.image-1GzsFd, .text-GwUZgS, .emptyWumpus-12J3jI, .emptyStateDescription-2IePen, .headerImage-3X1tyY {display:none;}
+.appMount-2yBXZl, body, .bg-1QIAus {background: transparent;}
 /* Hides background when uploading an image */
-.backdrop-1wrmKB {opacity: 0 !important;}
+.backdrop-2ByYRN {opacity: 0 !important;}
